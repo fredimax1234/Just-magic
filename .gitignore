@@ -1,0 +1,38 @@
+# Unity generated folders
+/Library/
+/Temp/
+/Obj/
+/obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+
+# Visual Studio / Rider / local IDE state
+/.vs/
+/.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.tmp
+*.booproj
+
+# Unity generated metadata/cache
+/MemoryCaptures/
+/Recordings/
+/GeneratedAssets/
+Assets/Scripts/ThirdPersonCamera.cs, newString.meta
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crash reports and local exports
+sysinfo.txt
+*.stackdump
+*.apk
+*.aab
+*.unitypackage
